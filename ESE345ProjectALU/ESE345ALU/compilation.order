@@ -1,0 +1,4 @@
+.\src\ESE345ALU.vhd
+.\src\ESE345ALUTB.vhd
+.\src\Instruction_Buffer.vhd
+.\src\Instruction_BufferTB.vhd
