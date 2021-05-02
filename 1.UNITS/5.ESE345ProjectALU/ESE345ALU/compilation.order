@@ -1,0 +1,3 @@
+.\src\ESE345ALU.vhd
+.\src\alu_tb.vhd
+.\src\alu_control.vhd

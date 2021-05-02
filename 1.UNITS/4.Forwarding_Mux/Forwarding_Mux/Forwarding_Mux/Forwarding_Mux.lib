@@ -1,0 +1,24 @@
+timestamp=1619893958969
+
+[~A]
+ModifyID=9
+Version=74
+
+[~MFT]
+0=8|0Forwarding_Mux.mgf|14299|11438
+1=2|1Forwarding_Mux.mgf|7472|7472
+3=2|3Forwarding_Mux.mgf|0|0
+
+[forwarding_mux]
+A/forward_mux_archictecture=21|../src/forwarding_mux .vhd|37|1*7472
+BinI32/forward_mux_archictecture=3*0
+I=0*11297
+I/forward_mux_archictecture=0*14299
+M=11|0|ve4|1619893934552|../src/forwarding_mux .vhd|0*10238*0x632751cf8bb6e52bf0b993e3b867c5f0130df1dd|0*11203*0x23b75c12e3e89f2ef000564498faa8c2
+M/forward_mux_archictecture=21|0|ve4|1619893958946|../src/forwarding_mux .vhd|0*13058*0xfe43d7401c0afefacc7990ad42fe570281d48c35|0*14176*0x20116f55b147878295aeff36dce7fc50
+R=../src/forwarding_mux .vhd|7
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|a52c2d7c2ce5ec49787dbae0c67d8792a4d6dc396d48a26e4b2bb08e357bbb62bb11fb876c281e6465431b232bd25196
+Version/forward_mux_archictecture=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|a9f03786a1608b1f5479540d21d844ccd5c34ec8a9506e6a2afa86c11148981139e331c804aaee7433c9a8b49d90490fb293f4b037c15b6a60022e3ddc7d295e
+
+[~U]
+forwarding_mux=11|0*9924|

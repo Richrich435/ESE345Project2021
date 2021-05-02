@@ -1,0 +1,64 @@
+acom -O3 -e 100 -work Forwarding_Mux -2002  "$dsn/src/forwarding_mux .vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/4.Forwarding_Mux/Forwarding_Mux/src/forwarding_mux .vhd
+# Compile Entity "forwarding_mux"
+# Error: COMP96_0015: forwarding_mux .vhd : (19, 17): ':' expected.
+# Error: COMP96_0018: forwarding_mux .vhd : (19, 17): Identifier expected.
+# Error: COMP96_0016: forwarding_mux .vhd : (19, 20): Design unit declaration expected.
+# Compile Architecture "forward_mux_archictecture" of Entity "forwarding_mux"
+# Error: COMP96_0078: forwarding_mux .vhd : (51, 6): Unknown identifier "forward_valid".
+# Error: COMP96_0078: forwarding_mux .vhd : (51, 30): Unknown identifier "instruction_id".
+# Error: COMP96_0133: forwarding_mux .vhd : (51, 30): Cannot find object declaration.
+# Error: COMP96_0133: forwarding_mux .vhd : (51, 6): Cannot find object declaration.
+# Error: COMP96_0077: forwarding_mux .vhd : (51, 6): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: forwarding_mux .vhd : (52, 4): Unknown identifier "load_index_out".
+# Error: COMP96_0133: forwarding_mux .vhd : (52, 4): Cannot find object declaration.
+# Error: COMP96_0078: forwarding_mux .vhd : (52, 22): Unknown identifier "load_index_in".
+# Error: COMP96_0078: forwarding_mux .vhd : (53, 4): Unknown identifier "load_index_out".
+# Error: COMP96_0133: forwarding_mux .vhd : (53, 4): Cannot find object declaration.
+# Error: COMP96_0078: forwarding_mux .vhd : (53, 22): Unknown identifier "load_index_in".
+# Error: COMP96_0078: forwarding_mux .vhd : (54, 9): Unknown identifier "forward_valid".
+# Error: COMP96_0133: forwarding_mux .vhd : (54, 9): Cannot find object declaration.
+# Error: COMP96_0077: forwarding_mux .vhd : (54, 9): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 17 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -O3 -e 100 -work Forwarding_Mux -2002  "$dsn/src/forwarding_mux .vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/4.Forwarding_Mux/Forwarding_Mux/src/forwarding_mux .vhd
+# Compile Entity "forwarding_mux"
+# Error: COMP96_0018: forwarding_mux .vhd : (34, 2): Identifier expected.
+# Compile Architecture "forward_mux_archictecture" of Entity "forwarding_mux"
+# Error: COMP96_0078: forwarding_mux .vhd : (51, 6): Unknown identifier "forward_valid".
+# Error: COMP96_0078: forwarding_mux .vhd : (51, 30): Unknown identifier "instruction_id".
+# Error: COMP96_0133: forwarding_mux .vhd : (51, 30): Cannot find object declaration.
+# Error: COMP96_0133: forwarding_mux .vhd : (51, 6): Cannot find object declaration.
+# Error: COMP96_0077: forwarding_mux .vhd : (51, 6): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: forwarding_mux .vhd : (52, 4): Unknown identifier "load_index_out".
+# Error: COMP96_0133: forwarding_mux .vhd : (52, 4): Cannot find object declaration.
+# Error: COMP96_0078: forwarding_mux .vhd : (52, 22): Unknown identifier "load_index_in".
+# Error: COMP96_0078: forwarding_mux .vhd : (53, 4): Unknown identifier "load_index_out".
+# Error: COMP96_0133: forwarding_mux .vhd : (53, 4): Cannot find object declaration.
+# Error: COMP96_0078: forwarding_mux .vhd : (53, 22): Unknown identifier "load_index_in".
+# Error: COMP96_0078: forwarding_mux .vhd : (54, 9): Unknown identifier "forward_valid".
+# Error: COMP96_0133: forwarding_mux .vhd : (54, 9): Cannot find object declaration.
+# Error: COMP96_0077: forwarding_mux .vhd : (54, 9): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 15 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Forwarding_Mux -2002  "$dsn/src/forwarding_mux .vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/4.Forwarding_Mux/Forwarding_Mux/src/forwarding_mux .vhd
+# Compile Entity "forwarding_mux"
+# Compile Architecture "forward_mux_archictecture" of Entity "forwarding_mux"
+# Error: COMP96_0367: forwarding_mux .vhd : (52, 22): Improper array length (3). Expected length is 128.
+# Error: COMP96_0367: forwarding_mux .vhd : (53, 22): Improper array length (3). Expected length is 128.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work Forwarding_Mux -2002  "$dsn/src/forwarding_mux .vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/4.Forwarding_Mux/Forwarding_Mux/src/forwarding_mux .vhd
+# Compile Entity "forwarding_mux"
+# Compile Architecture "forward_mux_archictecture" of Entity "forwarding_mux"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work Forwarding_Mux -2002  "$dsn/src/forwarding_mux .vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/4.Forwarding_Mux/Forwarding_Mux/src/forwarding_mux .vhd
+# Compile Entity "forwarding_mux"
+# Compile Architecture "forward_mux_archictecture" of Entity "forwarding_mux"
+# Compile success 0 Errors 0 Warnings  Analysis time :  46.0 [ms]

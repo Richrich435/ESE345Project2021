@@ -1,0 +1,3 @@
+9
+~E 1 "../src/forwarding_mux .vhd" 7 forwarding_mux
+~A 1 "../src/forwarding_mux .vhd" 37 forward_mux_archictecture

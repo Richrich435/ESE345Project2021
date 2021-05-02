@@ -1,0 +1,5 @@
+10
+~E 1 "../src/register_file_tb.vhd" 9 alu_tb
+~A 1 "../src/register_file_tb.vhd" 12 tb_architecture
+~E 1 "../src/register_file.vhd" 10 register_file
+~A 1 "../src/register_file.vhd" 57 behavioral

@@ -1,0 +1,3 @@
+4
+~E 1 "../src/EX_WB.vhd" 8 ex_wb
+~A 1 "../src/EX_WB.vhd" 40 ex_wb_archictecture

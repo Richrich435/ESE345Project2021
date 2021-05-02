@@ -1,0 +1,5 @@
+6
+~E 1 "../src/ID_EX.vhd" 4 ID_EX
+~A 1 "../src/ID_EX.vhd" 44 Behavioral
+~E 1 "../src/IF_ID.vhd" 4 IF_ID
+~A 1 "../src/ID_EX.vhd" 40 Behavioral

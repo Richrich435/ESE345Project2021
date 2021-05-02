@@ -1,0 +1,53 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=IF_ID
+[Library]
+IF_ID=.\IF_ID\IF_ID.lib
+[$LibMap$]
+IF_ID=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+[Folders]
+Name0=Event Lists
+Directory0=E:\StonyBrook\senior\345\ESE345Project2021\1.IF_ID\
+Extension0=lst
+Name1=Logs
+Directory1=E:\StonyBrook\senior\345\ESE345Project2021\1.IF_ID\
+Extension1=log;htm;xml;txt
+Name2=Waveforms
+Directory2=E:\StonyBrook\senior\345\ESE345Project2021\1.IF_ID\
+Extension2=asdb;awc;asdbc;asdbe
+Name3=Makefiles
+Directory3=E:\StonyBrook\senior\345\ESE345Project2021\1.IF_ID\
+Extension3=mak
+Name4=Memory
+Directory4=E:\StonyBrook\senior\345\ESE345Project2021\1.IF_ID\
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=E:\StonyBrook\senior\345\ESE345Project2021\1.IF_ID\
+Extension5=dll
+Name6=PDF
+Directory6=E:\StonyBrook\senior\345\ESE345Project2021\1.IF_ID\
+Extension6=pdf
+Name7=HTML
+Directory7=E:\StonyBrook\senior\345\ESE345Project2021\1.IF_ID\
+Extension7=htm;html
+[Files]
+/IF_ID.vhd=-1
+[Files.Data]
+.\src\IF_ID.vhd=VHDL Source Code

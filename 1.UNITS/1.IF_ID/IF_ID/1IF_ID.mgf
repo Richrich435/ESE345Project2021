@@ -1,0 +1,24 @@
+V 000051 55 771           1619806277967 behavioral
+(_unit VHDL(if_id 0 4(behavioral 0 13))
+	(_version ve4)
+	(_time 1619806277968 2021.04.30 14:11:17)
+	(_source(\../src/IF_ID.vhd\))
+	(_parameters tan)
+	(_code 37376d32366335213f34236d6f31313261313e3133)
+	(_ent
+		(_time 1619806277965)
+	)
+	(_object
+		(_type(_int ~STD_LOGIC_VECTOR{24~downto~0}~12 0 6(_array -1((_dto i 24 i 0)))))
+		(_port(_int instruction_in 0 0 6(_ent(_in))))
+		(_port(_int instruction_out 0 0 7(_ent(_out))))
+		(_port(_int clk -1 0 8(_ent(_in)(_event))))
+		(_prcs
+			(line__16(_arch 0 0 16(_prcs(_trgt(1))(_sens(0)(2)))))
+		)
+		(_type(_ext ~extieee.std_logic_1164.STD_LOGIC(0 STD_LOGIC)))
+		(_type(_ext ~extieee.std_logic_1164.STD_ULOGIC(0 STD_ULOGIC)))
+	)
+	(_use(ieee(std_logic_1164))(std(standard)))
+	(_model . behavioral 1 -1)
+)

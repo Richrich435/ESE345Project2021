@@ -1,0 +1,12 @@
+[Version]
+Version=11.1
+[Designs]
+forwarding_mux=.\Forwarding_Mux\Forwarding_Mux.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+forwarding_mux=1

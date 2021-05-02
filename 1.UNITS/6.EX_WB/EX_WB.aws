@@ -1,0 +1,12 @@
+[Version]
+Version=11.1
+[Designs]
+ex_wb=.\EX_WB\EX_WB.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+ex_wb=1

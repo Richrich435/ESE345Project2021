@@ -1,0 +1,21 @@
+acom -O3 -e 100 -work Forwarding_Unit -2002  $dsn/src/forwarding_unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/7.Forwarding_Unit/Forwarding_Unit/src/forwarding_unit.vhd
+# Compile Entity "forwarding_unit"
+# Compile Architecture "forward_unit_archictecture" of Entity "forwarding_unit"
+# Error: COMP96_0078: forwarding_unit.vhd : (43, 10): Unknown identifier "instruction_id".
+# Error: COMP96_0133: forwarding_unit.vhd : (43, 10): Cannot find object declaration.
+# Error: COMP96_0077: forwarding_unit.vhd : (43, 10): Undefined type of expression. Expected type 'BOOLEAN'.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -O3 -e 100 -work Forwarding_Unit -2002  $dsn/src/forwarding_unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/7.Forwarding_Unit/Forwarding_Unit/src/forwarding_unit.vhd
+# Compile Entity "forwarding_unit"
+# Compile Architecture "forward_unit_archictecture" of Entity "forwarding_unit"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Forwarding_Unit -2002  $dsn/src/forwarding_unit.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/7.Forwarding_Unit/Forwarding_Unit/src/forwarding_unit.vhd
+# Compile Entity "forwarding_unit"
+# Compile Architecture "forward_unit_archictecture" of Entity "forwarding_unit"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]

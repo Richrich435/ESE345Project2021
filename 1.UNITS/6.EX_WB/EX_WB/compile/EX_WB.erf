@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/StonyBrook/senior/345/ESE345Project2021/6.EX_WB/EX_WB/src/EX_WB.vhd" 
+MESSAGE "Compile Entity "ex_wb"" 
+MESSAGE "Compile Architecture "ex_wb_archictecture" of Entity "ex_wb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]" 

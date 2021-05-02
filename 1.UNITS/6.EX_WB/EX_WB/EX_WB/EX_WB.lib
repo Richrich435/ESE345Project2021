@@ -1,0 +1,24 @@
+timestamp=1619883025075
+
+[~A]
+ModifyID=4
+Version=74
+
+[~MFT]
+0=16|0EX_WB.mgf|5207|3208
+1=2|1EX_WB.mgf|3592|3592
+3=2|3EX_WB.mgf|0|0
+
+[ex_wb]
+A/ex_wb_archictecture=21|../src/EX_WB.vhd|40|1*3592
+BinI32/ex_wb_archictecture=3*0
+I=0*4395
+I/ex_wb_archictecture=0*5207
+M=11|0|ve4|1619883025047|../src/EX_WB.vhd|0*3502*0xe55c5f3a20e81179929d2563372e80a17a48e96f|0*4320*0x23b75c12e3e89f2ef000564498faa8c2
+M/ex_wb_archictecture=21|0|ve4|1619883025049|../src/EX_WB.vhd|0*4633*0xf6ec0da80ca172f3ba44da7a55fdda423e25e35f|0*5109*0x20116f55b147878295aeff36dce7fc50
+R=../src/EX_WB.vhd|8
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|b9cb23b16c93379365471a30d8eb8eba4003b42e7d432481e918a68690d60b8f
+Version/ex_wb_archictecture=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|b286e9d3a3e6bde61e15db57424c90e48d87cef2582d4d8cc270619c50716ebd68fe7c15846a3da07ca514f37f3ca9c1
+
+[~U]
+ex_wb=11|0*3208|

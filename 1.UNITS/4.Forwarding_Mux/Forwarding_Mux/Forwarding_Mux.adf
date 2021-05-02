@@ -1,0 +1,28 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Forwarding_Mux
+[Library]
+Forwarding_Mux=.\Forwarding_Mux\Forwarding_Mux.lib
+[$LibMap$]
+Forwarding_Mux=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+[Files]
+/forwarding_mux .vhd=-1
+[Files.Data]
+.\src\forwarding_mux .vhd=VHDL Source Code

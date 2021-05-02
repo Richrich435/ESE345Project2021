@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/StonyBrook/senior/345/ESE345Project2021/4.Forwarding_Mux/Forwarding_Mux/src/forwarding_mux .vhd" 
+MESSAGE "Compile Entity "forwarding_mux"" 
+MESSAGE "Compile Architecture "forward_mux_archictecture" of Entity "forwarding_mux"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  46.0 [ms]" 
