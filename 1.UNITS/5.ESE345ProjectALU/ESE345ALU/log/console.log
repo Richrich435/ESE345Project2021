@@ -1,14 +1,49 @@
 # ELBREAD: Elaboration process.
 # ELBREAD: Elaboration time 0.0 [s].
-acom -O3 -e 100 -work ese345alu -2002  $dsn/src/alu_control.vhd
+# Design Explorer: Shortcut to "E:\StonyBrook\senior\345\ESE345Project2021\1.UNITS\5.ESE345ProjectALU\ESE345ProjectALU.aws" workspace added.
+acom -O3 -e 100 -work ese345alu -2002  $dsn/src/ESE345ALU.vhd
 # Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
-# File: E:/StonyBrook/senior/345/ESE345Project2021/5.ESE345ProjectALU/ESE345ALU/src/alu_control.vhd
-# Compile Entity "alu_control"
-# Compile Architecture "alu_control_brains" of Entity "alu_control"
-# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
-acom -O3 -e 100 -work ese345alu -2002  $dsn/src/alu_control.vhd
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/5.ESE345ProjectALU/ESE345ALU/src/ESE345ALU.vhd
+# Compile Entity "alu"
+# Compile Architecture "alu_architecture" of Entity "alu"
+# Error: COMP96_0078: ESE345ALU.vhd : (291, 52): Unknown identifier "max_16".
+# Error: COMP96_0133: ESE345ALU.vhd : (291, 52): Cannot find object declaration.
+# Error: COMP96_0077: ESE345ALU.vhd : (291, 52): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0078: ESE345ALU.vhd : (293, 52): Unknown identifier "min_16".
+# Error: COMP96_0133: ESE345ALU.vhd : (293, 52): Cannot find object declaration.
+# Error: COMP96_0077: ESE345ALU.vhd : (293, 52): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0110: ESE345ALU.vhd : (325, 5): Signal cannot be the target of a variable assignment.
+# Error: COMP96_0110: ESE345ALU.vhd : (355, 5): Signal cannot be the target of a variable assignment.
+# Error: COMP96_0078: ESE345ALU.vhd : (388, 107): Unknown identifier "input_constant".
+# Error: COMP96_0133: ESE345ALU.vhd : (388, 107): Cannot find object declaration.
+# Error: COMP96_0149: ESE345ALU.vhd : (388, 107): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0078: ESE345ALU.vhd : (402, 6): Unknown identifier "count".
+# Error: COMP96_0133: ESE345ALU.vhd : (402, 6): Cannot find object declaration.
+# Error: COMP96_0078: ESE345ALU.vhd : (405, 8): Unknown identifier "count".
+# Error: COMP96_0133: ESE345ALU.vhd : (405, 8): Cannot find object declaration.
+# Error: COMP96_0078: ESE345ALU.vhd : (405, 17): Unknown identifier "count".
+# Error: COMP96_0078: ESE345ALU.vhd : (410, 80): Unknown identifier "count".
+# Error: COMP96_0133: ESE345ALU.vhd : (410, 80): Cannot find object declaration.
+# Error: COMP96_0104: ESE345ALU.vhd : (410, 80): Undefined type of expression.
+# Error: COMP96_0078: ESE345ALU.vhd : (417, 6): Unknown identifier "temp_5".
+# Error: COMP96_0133: ESE345ALU.vhd : (417, 6): Cannot find object declaration.
+# Error: COMP96_0078: ESE345ALU.vhd : (418, 6): Unknown identifier "integerValue".
+# Error: COMP96_0133: ESE345ALU.vhd : (418, 6): Cannot find object declaration.
+# Error: COMP96_0078: ESE345ALU.vhd : (418, 42): Unknown identifier "temp_5".
+# Error: COMP96_0133: ESE345ALU.vhd : (418, 42): Cannot find object declaration.
+# Error: COMP96_0078: ESE345ALU.vhd : (419, 100): Unknown identifier "integerValue".
+# Error: COMP96_0133: ESE345ALU.vhd : (419, 100): Cannot find object declaration.
+# Error: COMP96_0104: ESE345ALU.vhd : (419, 100): Undefined type of expression.
+# Error: COMP96_0078: ESE345ALU.vhd : (430, 52): Unknown identifier "min_16".
+# Error: COMP96_0133: ESE345ALU.vhd : (430, 52): Cannot find object declaration.
+# Error: COMP96_0077: ESE345ALU.vhd : (430, 52): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0078: ESE345ALU.vhd : (432, 52): Unknown identifier "max_16".
+# Error: COMP96_0133: ESE345ALU.vhd : (432, 52): Cannot find object declaration.
+# Error: COMP96_0077: ESE345ALU.vhd : (432, 52): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 34 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -O3 -e 100 -work ese345alu -2002  $dsn/src/ESE345ALU.vhd
 # Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
-# File: E:/StonyBrook/senior/345/ESE345Project2021/5.ESE345ProjectALU/ESE345ALU/src/alu_control.vhd
-# Compile Entity "alu_control"
-# Compile Architecture "alu_control_brains" of Entity "alu_control"
-# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/5.ESE345ProjectALU/ESE345ALU/src/ESE345ALU.vhd
+# Compile Entity "alu"
+# Compile Architecture "alu_architecture" of Entity "alu"
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]

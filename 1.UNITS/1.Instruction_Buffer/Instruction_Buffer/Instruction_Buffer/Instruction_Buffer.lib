@@ -1,0 +1,44 @@
+timestamp=1619987898380
+
+[~A]
+ModifyID=3
+Version=74
+
+[~MFT]
+0=7|0Instruction_Buffer.mgf|4524|0
+1=1|1Instruction_Buffer.mgf|1743|0
+3=1|3Instruction_Buffer.mgf|399|0
+
+[instruction_buffer]
+A/behavioral=21|../src/Instruciton_Buffer.vhd|54|1*568
+BinI32/behavioral=3*0
+I=0*1891
+I/behavioral=0*2607
+M=11|0|ve4|1619987830662|../src/Instruciton_Buffer.vhd|0*1337*0xd9b4154383572301494ec4965f5500a11232966f|0*1790*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=21|0|ve4|1619987830664|../src/Instruciton_Buffer.vhd|0*2186*0xeb6044b8597cc7bff2ca684130bdc6e151accec0|0*2492*0x20116f55b147878295aeff36dce7fc50
+R=../src/Instruciton_Buffer.vhd|42
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|ca35fc9534a8cfce866c0066a9a678c8b13dc95af3c1d8385f3b18fdce3ab3d76dbf06498ae7f9ab1572d87169725a8e
+Version/behavioral=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4dc250886477af419d50ddcdb08a68684
+
+[instruction_buffertb]
+A/instruction_buffertb=A/Instruction_BufferTB 21|../src/INTB.vhd|38|1*1743
+BinI32/instruction_buffertb=3*399
+I=0*3425
+I/instruction_buffertb=I/Instruction_BufferTB 0*4524
+M=11|0|ve4|1619987898352|../src/INTB.vhd|0*3059*0xb914631bf4528e5f2cef6b2218ccc5cab9af6564|0*3336*0x23b75c12e3e89f2ef000564498faa8c2
+M/instruction_buffertb=M/Instruction_BufferTB 21|0|ve4|1619987898354|../src/INTB.vhd|0*3722*0x287d4d0ad7300c2f0f9e59090197ad91bfc771f3|0*4411*0x20116f55b147878295aeff36dce7fc50
+R=../src/INTB.vhd|33
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|ca35fc9534a8cfce866c0066a9a678c8f98a2ecae3f87596284e2ab46568334e58ee13b27e6f55af81c92e9688cb6469
+Version/instruction_buffertb=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|ca35fc9534a8cfce866c0066a9a678c8f98a2ecae3f87596284e2ab46568334e58ee13b27e6f55af81c92e9688cb6469
+
+[instruction_input]
+E=1*0
+I=0*801
+M=3|0|ve4|1619987830659|../src/Instruciton_Buffer.vhd|0*426*0xc3f74af00102d2641acd1efd3bccfb54bd69b62b|0*701*0x23b75c12e3e89f2ef000564498faa8c2
+R=../src/Instruciton_Buffer.vhd|30
+Version=11.1.262.7351 (Windows)|00000003789cd3f5370600015b00b0|aa5cdeefbdd8ec0382d54b92f1958785183b79c6d18eb6708392de7923d04255e170682b4c7db4f5a48abfe0e2b4e40b
+
+[~U]
+instruction_buffer=Instruction_Buffer 11|0*1051|
+instruction_buffertb=Instruction_BufferTB 11|0*2913|
+instruction_input=3|0*0|0*219

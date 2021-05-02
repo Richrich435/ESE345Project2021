@@ -1,5 +1,16 @@
 WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
-MESSAGE "File: E:/StonyBrook/senior/345/ESE345Project2021/5.ESE345ProjectALU/ESE345ALU/src/alu_control.vhd" 
-MESSAGE "Compile Entity "alu_control"" 
-MESSAGE "Compile Architecture "alu_control_brains" of Entity "alu_control"" 
-SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]" 
+MESSAGE "File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/5.ESE345ProjectALU/ESE345ALU/src/ESE345ALU.vhd" 
+BEGINPROGRESS E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/5.ESE345ProjectALU/ESE345ALU/src/ESE345ALU.vhd
+UPDATEPROGRESS 1
+MESSAGE "Compile Entity "alu"" 
+UPDATEPROGRESS 3
+UPDATEPROGRESS 4
+MESSAGE "Compile Architecture "alu_architecture" of Entity "alu"" 
+UPDATEPROGRESS 5
+UPDATEPROGRESS 6
+UPDATEPROGRESS 7
+UPDATEPROGRESS 8
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/5.ESE345ProjectALU/ESE345ALU/src/ESE345ALU.vhd
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]" 

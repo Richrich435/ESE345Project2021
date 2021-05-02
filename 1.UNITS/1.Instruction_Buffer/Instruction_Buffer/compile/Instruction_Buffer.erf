@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/INTB.vhd" 
+MESSAGE "Compile Entity "Instruction_BufferTB"" 
+MESSAGE "Compile Architecture "Instruction_BufferTB" of Entity "Instruction_BufferTB"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  46.0 [ms]" 

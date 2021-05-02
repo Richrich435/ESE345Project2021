@@ -9,4 +9,4 @@ mode=none
 order=1
 macro=
 [Expand]
-register_file=1
+register_file=0

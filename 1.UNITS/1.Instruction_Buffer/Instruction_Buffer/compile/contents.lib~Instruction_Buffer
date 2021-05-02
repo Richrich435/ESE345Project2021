@@ -1,0 +1,5 @@
+3
+~E 1 "../src/Instruciton_Buffer.vhd" 42 Instruction_Buffer
+~A 1 "../src/Instruciton_Buffer.vhd" 54 behavioral
+~E 1 "../src/INTB.vhd" 33 Instruction_BufferTB
+~A 1 "../src/INTB.vhd" 38 Instruction_BufferTB

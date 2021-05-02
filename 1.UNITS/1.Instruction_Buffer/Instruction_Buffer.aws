@@ -1,7 +1,7 @@
 [Version]
 Version=11.1
 [Designs]
-ese345alu=.\ESE345ALU\ESE345ALU.adf
+instruction_buffer=.\Instruction_Buffer\Instruction_Buffer.adf
 [Browser]
 sort=order
 mode=none
@@ -9,4 +9,4 @@ mode=none
 order=1
 macro=
 [Expand]
-ese345alu=0
+instruction_buffer=1

@@ -1,0 +1,140 @@
+# Design: Design Instruction_Buffer already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work Instruction_Buffer -2002  $dsn/src/Instruciton_Buffer.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Error: COMP96_0015: Instruciton_Buffer.vhd : (36, 1): ';' expected.
+# Error: COMP96_0016: Instruciton_Buffer.vhd : (36, 8): Design unit declaration expected.
+# Error: COMP96_0056: Instruciton_Buffer.vhd : (48, 1): Cannot find referenced entity declaration "Instruction_Buffer".
+# Compile failure 3 Errors 0 Warnings  Analysis time :  94.0 [ms]
+acom -reorder -O3 -e 100 -work Instruction_Buffer -2002  $dsn/src/Instruciton_Buffer.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Error: COMP96_0015: Instruciton_Buffer.vhd : (36, 1): ';' expected.
+# Error: COMP96_0016: Instruciton_Buffer.vhd : (36, 8): Design unit declaration expected.
+# Error: COMP96_0056: Instruciton_Buffer.vhd : (48, 1): Cannot find referenced entity declaration "Instruction_Buffer".
+# Compile failure 3 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work Instruction_Buffer -2002  $dsn/src/Instruciton_Buffer.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Error: COMP96_0055: Instruciton_Buffer.vhd : (30, 10): Cannot find context item "work.instruction_input".
+# Error: COMP96_0078: Instruciton_Buffer.vhd : (38, 26): Unknown identifier "instruction_array_buffer".
+# Error: COMP96_0064: Instruciton_Buffer.vhd : (38, 26): Unknown type.
+# Error: COMP96_0078: Instruciton_Buffer.vhd : (41, 13): Unknown identifier "STD_LOGIC".
+# Error: COMP96_0064: Instruciton_Buffer.vhd : (41, 13): Unknown type.
+# Error: COMP96_0078: Instruciton_Buffer.vhd : (42, 25): Unknown identifier "std_logic_vector".
+# Error: COMP96_0064: Instruciton_Buffer.vhd : (42, 25): Unknown type.
+# Error: COMP96_0056: Instruciton_Buffer.vhd : (48, 1): Cannot find referenced entity declaration "Instruction_Buffer".
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -reorder -O3 -e 100 -work Instruction_Buffer -2002  $dsn/src/Instruciton_Buffer.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Error: COMP96_0078: Instruciton_Buffer.vhd : (26, 54): Unknown identifier "std_logic_vector".
+# Error: COMP96_0064: Instruciton_Buffer.vhd : (26, 54): Unknown type.
+# Error: COMP96_0055: Instruciton_Buffer.vhd : (34, 10): Cannot find context item "work.instruction_input".
+# Error: COMP96_0078: Instruciton_Buffer.vhd : (40, 26): Unknown identifier "instruction_array_buffer".
+# Error: COMP96_0064: Instruciton_Buffer.vhd : (40, 26): Unknown type.
+# Error: COMP96_0056: Instruciton_Buffer.vhd : (50, 1): Cannot find referenced entity declaration "Instruction_Buffer".
+# Compile failure 6 Errors 0 Warnings  Analysis time :  1.0 [s]
+acom -reorder -O3 -e 100 -work Instruction_Buffer -2002  $dsn/src/Instruciton_Buffer.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Error: COMP96_0078: Instruciton_Buffer.vhd : (44, 13): Unknown identifier "STD_LOGIC".
+# Error: COMP96_0064: Instruciton_Buffer.vhd : (44, 13): Unknown type.
+# Error: COMP96_0078: Instruciton_Buffer.vhd : (45, 25): Unknown identifier "std_logic_vector".
+# Error: COMP96_0064: Instruciton_Buffer.vhd : (45, 25): Unknown type.
+# Error: COMP96_0056: Instruciton_Buffer.vhd : (51, 1): Cannot find referenced entity declaration "Instruction_Buffer".
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.2 [s]
+acom -reorder -O3 -e 100 -work Instruction_Buffer -2002  $dsn/src/Instruciton_Buffer.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/Instruciton_Buffer.vhd
+# Compile Package "instruction_input"
+# Compile Entity "Instruction_Buffer"
+# Compile Architecture "behavioral" of Entity "Instruction_Buffer"
+# Top-level unit(s) detected:
+# Entity => Instruction_Buffer
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work Instruction_Buffer -2002  $dsn/src/INTB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: E:/StonyBrook/senior/345/ESE345Project2021/1.UNITS/Instruction_Buffer/Instruction_Buffer/src/INTB.vhd
+# Compile Entity "Instruction_BufferTB"
+# Compile Architecture "Instruction_BufferTB" of Entity "Instruction_BufferTB"
+# Compile success 0 Errors 0 Warnings  Analysis time :  46.0 [ms]

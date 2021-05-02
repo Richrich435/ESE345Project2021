@@ -1,6 +1,6 @@
-89
-~E 1 "../src/ESE345ALU.vhd" 29 alu
-~A 1 "../src/ESE345ALU.vhd" 43 alu_architecture
+91
+~E 1 "../src/ESE345ALU.vhd" 30 alu
+~A 1 "../src/ESE345ALU.vhd" 45 alu_architecture
 ~E 1 "../src/alu_control.vhd" 4 alu_control
 ~A 1 "../src/alu_control.vhd" 14 alu_control_brains
 ~E 1 "../src/alu_tb.vhd" 9 alu_tb
