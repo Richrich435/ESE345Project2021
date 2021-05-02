@@ -1,8 +1,0 @@
-
-LI LI6 x40FF r6
-
-SIMALS r5 r2 r1 r7
-
-AU r10 r11 r12
-
-AHU r8 r3 r4

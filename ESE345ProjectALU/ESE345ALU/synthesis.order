@@ -1,4 +1,0 @@
-i<>.\src\ESE345ALU.vhd
-i<>.\src\ESE345ALUTB.vhd
-i<>.\src\Instruction_Buffer.vhd
-i<>.\src\Instruction_BufferTB.vhd
